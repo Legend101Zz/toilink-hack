@@ -80,7 +80,7 @@ we have created login/register interface page backed with the power of express f
 >>>We also integrated map box api, which creates cluster maps to help the user know about all the toilets nearby him/her. (You can then check toilets near me pagefor info). You can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given.
 
 
-![Map page](reviews2.jpeg)
+
 
 >>>Our site also have map feature to give you overview about public restrooms around you and your route of journey.
 
@@ -92,7 +92,7 @@ Moving in homepage further will give a brief description about all the toilets l
 
 
 ----
-
+![Map page](reviews.jpeg)
 ><span style="color:gold; font-family: Babas; font-size: 1.5em;">3) Show Page:</span> It has reviews, location, price and images of a particular restroom. 
 
 
