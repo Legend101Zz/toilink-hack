@@ -59,17 +59,15 @@ solution to the public users, due to their lack of
 maintenance and cleanliness.Our project aims to
 provide solution to this problem through social
 feedback and social awareness.
->>Our Home page has two arrow keys 
-left and right which give access to other pages like login, main page, maps and about us.
 
 
 ![Main page](./images/main.jpg)
 
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) Home:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has 5 icons on its left corner all leading you on different page.
+><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) Home:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has a UI designed to give user a sense of comfort and vividness.
 
 ![login](./images/login.jpg)
 
-we have created sign in/up interface page backed with the power of express framework .
+we have created login/register interface page backed with the power of express framework .
 
 >><span style="font-family: 'Lucida Console';">We made the login page user friendly so that it remember you, so that you don't have to sign in again and again. </span>
 
@@ -79,15 +77,12 @@ we have created sign in/up interface page backed with the power of express frame
 
 ![Gps page](./images/gps.jpg)
 
->>>We also integrated map box api, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
+>>>We also integrated map box api, which creates cluster maps to help the user know about all the toilets nearby him/her. (You can then check toilets near me pagefor info). You can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given.
 
-![Toilet Near me](./images/Toilets near me.jpg)
-
->>>You can also put your location manually and this page will show all the public toilets near you and their ratings on the scale from 1 to 5. You can also read reviews of other people who used the toilet earlier. On bottom you can also add your own review. Again access to all other pages are given on this page.
 
 ![Map page](./images/map.jpg)
 
->>>Our site also have map feature to give you overview about oublic restrooms around you and your route of journey.
+>>>Our site also have map feature to give you overview about public restrooms around you and your route of journey.
 
 ----
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) About Us:</span>
