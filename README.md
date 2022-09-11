@@ -85,17 +85,16 @@ we have created login/register interface page backed with the power of express f
 >>>Our site also have map feature to give you overview about public restrooms around you and your route of journey.
 
 ----
-><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) About Us:</span>
-Moving in homepage further will give a brief description about our team. Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage. 
+><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) About Toilets:</span>
+Moving in homepage further will give a brief description about all the toilets listed and provide a overview about them . Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage. 
 
 ![About us](./images/about%20us.jpg)
 
+
+
 ----
 
-><span style="color:gold; font-family: Babas; font-size: 1.5em;">3) Team:</span> you will finally reach virtually to us and we are glad for that. 
-
-
-><span style="color:gold; font-family: Babas; font-size: 1.5em;">4) Contact:</span>If your needs are not satisfied by this webpage or you have queries unanswered,you surely can contact us  and we ensure you to provide with best solution. 
+><span style="color:gold; font-family: Babas; font-size: 1.5em;">3) Show Page:</span> It has reviews, location, price and images of a particular restroom. 
 
 
 
