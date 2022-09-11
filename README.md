@@ -88,7 +88,6 @@ we have created login/register interface page backed with the power of express f
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">2) About Toilets:</span>
 Moving in homepage further will give a brief description about all the toilets listed and provide a overview about them . Our main objective is to bring out best confident personality from within you , and lend a helping hand ,which has been explained in this section of webpage. 
 
-![About us](./images/about%20us.jpg)
 
 
 
