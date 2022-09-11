@@ -61,7 +61,7 @@ provide solution to this problem through social
 feedback and social awareness.
 
 
-![Main page](review.jpeg)
+![Main page](main.png)
 
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) Home:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has a UI designed to give user a sense of comfort and vividness.
 
