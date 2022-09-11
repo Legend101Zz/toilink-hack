@@ -17,7 +17,7 @@ https://toilink-22.herokuapp.com
 
 ##  💼 &nbsp; <span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">Challenges we ran into
 </span>
-<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1.2em;">Integrating gps to our site and putting backend for the user review section.
+<span style="color:#fff; font-family: 'Bebas Neue'; font-size: 1.2em;">Integrating Map-Box api to our site and putting backend for the user review section.
 </span>
 
 ## 🔭 &nbsp; <span style="color: #f2cf4a; font-family: Babas; font-size: 1.4em;">About this Project
@@ -43,7 +43,7 @@ of new public toilets.
 
 *Description of the Project*
 
-``Our Project is a Website with individual review interface  backed with the power of django framework.``
+``Our Project is a Website with individual review interface  backed with the power of Node framework.``
 <details>
            <summary><span style="font-family:Papyrus; font-size:1.5em;">Website</span></summary>
            <p></p>
@@ -69,7 +69,7 @@ left and right which give access to other pages like login, main page, maps and 
 
 ![login](./images/login.jpg)
 
-we have created sign in/up interface page backed with the power of django framework .
+we have created sign in/up interface page backed with the power of express framework .
 
 >><span style="font-family: 'Lucida Console';">We made the login page user friendly so that it remember you, so that you don't have to sign in again and again. </span>
 
@@ -79,7 +79,7 @@ we have created sign in/up interface page backed with the power of django framew
 
 ![Gps page](./images/gps.jpg)
 
->>>We also integrated gps, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
+>>>We also integrated map box api, which you can control with on/off button on top left corner, it'll take your current location.(You can then check toilets near me pagefor info). . you can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given on bottom right corner.
 
 ![Toilet Near me](./images/Toilets near me.jpg)
 
