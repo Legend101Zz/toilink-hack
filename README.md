@@ -52,7 +52,7 @@ of new public toilets.
 
 
 
-![Home page](./images/home.jpg)
+![Home page](home.jpeg)
 
 >Public toilets cause more problems than providing
 solution to the public users, due to their lack of
@@ -61,11 +61,11 @@ provide solution to this problem through social
 feedback and social awareness.
 
 
-![Main page](./images/main.jpg)
+![Main page](review.jpeg)
 
 ><span style="color: #f2cf4a; font-family: Babas; font-size: 1.5em;">1) Home:</span>Main page is designed keeping it's aesthetic aspect high so that perception of public toilets being attached with negative emotion change. It has a UI designed to give user a sense of comfort and vividness.
 
-![login](./images/login.jpg)
+![login](login.jpeg)
 
 we have created login/register interface page backed with the power of express framework .
 
@@ -75,12 +75,12 @@ we have created login/register interface page backed with the power of express f
 
 
 
-![Gps page](./images/gps.jpg)
+![Gps page](reviews2.jpeg)
 
 >>>We also integrated map box api, which creates cluster maps to help the user know about all the toilets nearby him/her. (You can then check toilets near me pagefor info). You can access map also from this page(top right corner), you can also put your entire journey for better info.You can also put your reviews and wether you were satisfied or not. Links to home page and your profile are also given.
 
 
-![Map page](./images/map.jpg)
+![Map page](reviews2.jpeg)
 
 >>>Our site also have map feature to give you overview about public restrooms around you and your route of journey.
 
