@@ -2,7 +2,7 @@
 
 #Deployed at 
 
-https://toilink-22.herokuapp.com
+https://toi-link.onrender.com
 
 #A brief about our project
 
